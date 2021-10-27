@@ -15,10 +15,12 @@ export default function Home() {
         <h1 className={styles.title}>
           ❤️ גוגול ❤️
         </h1>
+        <br/>
 
         <h1 className={styles.title}>
           ❤️ אהבה ❤️
         </h1>
+        <br/>
 
         <h1 className={styles.title}>
         🎉מזל טוב!🎉
