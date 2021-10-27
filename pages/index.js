@@ -17,12 +17,12 @@ export default function Home() {
         </h1>
         <br/>
 
-        <h2 className={styles.title}>
+        <h2 className={styles.subtitle}>
           ❤️ אהבה ❤️
         </h2>
         <br/>
 
-        <h3 className={styles.title}>
+        <h3 className={styles.subsubtitle}>
         🎉מזל טוב!🎉
         </h3>
 
