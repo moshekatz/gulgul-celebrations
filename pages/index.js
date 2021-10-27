@@ -13,15 +13,23 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          גוגול, אהבה - מזל טוב!
+          ❤️ גוגול ❤️
+        </h1>
+
+        <h1 className={styles.title}>
+          ❤️ אהבה ❤️
+        </h1>
+
+        <h1 className={styles.title}>
+        🎉מזל טוב!🎉
         </h1>
 
         <p className={styles.description}>
-          תודה שאת קיימת, כבר לא זוכר מה זה להיות בלעדייך.
+          תודה שאת קיימת.
         </p>
 
         <p className={styles.description}>
-          לחיי עוד הרבה ימי הולדת
+          לחיי עוד הרבה ימי הולדת.. 🥂
         </p>
 
         <p className={styles.description}>
