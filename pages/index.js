@@ -42,22 +42,7 @@ export default function Home() {
           גול ❤️
         </p>
 
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-
-        <p className={styles.description}>
+        <p className={styles.description} style={{ marginTop: 1000 }}>
           אגב, הטבעת כבר אצלי והולכים מחר להופעה של גידי גוב.
           יכולת לגלות את זה כבר לפני תקופה אם רק היית גוללת קצת...
           ❤️
