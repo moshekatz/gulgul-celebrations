@@ -44,8 +44,9 @@ export default function Home() {
 
         <p className={styles.description} style={{ marginTop: 600 }}>
           אגב, הטבעת כבר אצלי והולכים מחר להופעה של גידי גוב.
-          יכולת לגלות את זה כבר לפני תקופה אם רק היית גוללת קצת...
-          ❤️
+        </p>
+        <p className={styles.description}>
+          יכולת לגלות את זה כבר לפני תקופה אם רק היית גוללת קצת... ❤️
         </p>
       </main>
     </div>
